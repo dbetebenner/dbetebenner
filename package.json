@@ -1,0 +1,12 @@
+{
+  "name": "dbetebenner-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "opentype.js": "^1.3.4"
+  }
+}

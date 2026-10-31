@@ -1,0 +1,42 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "17 11 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "tools/**"
+      - "package*.json"
+      - ".github/workflows/refresh.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: node tools/build.mjs
+      - name: Commit if anything changed
+        run: |
+          git add README.md assets/banner-*.svg assets/timeline-*.svg
+          if git diff --cached --quiet; then
+            echo "Profile is current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh talks and timeline"
+          git push
