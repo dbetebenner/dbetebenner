@@ -53,6 +53,11 @@ can use them.
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://dbetebenner.github.io/talks/2026-11-01-wida-access-2026-27-proficiency-levels/"><img src="https://dbetebenner.github.io/public/thumbs/2026-11-01-wida-access-2026-27-proficiency-levels.webp" alt="Title slide: WIDA ACCESS 2026–27 Proficiency Levels" width="100%"></a><br>
+<b><a href="https://dbetebenner.github.io/talks/2026-11-01-wida-access-2026-27-proficiency-levels/">WIDA ACCESS 2026–27 Proficiency Levels</a></b><br>
+<sub>Indiana Department of Education · Nov 2026</sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://dbetebenner.github.io/talks/2026-10-26-student-growth-the-pulse-of-the-education-system/"><img src="https://dbetebenner.github.io/public/thumbs/2026-10-26-student-growth-the-pulse-of-the-education-system.webp" alt="Title slide: Student Growth: The Pulse of the Education System" width="100%"></a><br>
 <b><a href="https://dbetebenner.github.io/talks/2026-10-26-student-growth-the-pulse-of-the-education-system/">Student Growth: The Pulse of the Education System</a></b><br>
 <sub>DoWEA Fall Leadership Meeting · Oct 26, 2026</sub>
@@ -62,18 +67,13 @@ can use them.
 <b><a href="https://dbetebenner.github.io/talks/2026-10-19-new-hampshire-2026-sgp-results/">New Hampshire 2026 SGP Results</a></b><br>
 <sub>New Hampshire Technical Advisory Committee · Oct 19, 2026</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://dbetebenner.github.io/talks/2026-10-07-educational-measurement-as-an-ai-native-profession/"><img src="https://dbetebenner.github.io/public/thumbs/2026-10-07-educational-measurement-as-an-ai-native-profession.webp" alt="Title slide: Educational Measurement as an AI-Native Profession" width="100%"></a><br>
-<b><a href="https://dbetebenner.github.io/talks/2026-10-07-educational-measurement-as-an-ai-native-profession/">Educational Measurement as an AI-Native Profession</a></b><br>
-<sub>AIME-Con 2026, Pittsburgh · Oct 7, 2026</sub>
-</td>
 </tr>
 </table>
 
+- [Educational Measurement as an AI-Native Profession](https://dbetebenner.github.io/talks/2026-10-07-educational-measurement-as-an-ai-native-profession/) — AIME-Con 2026, Pittsburgh, Oct 7, 2026
 - [Writing an AI-Native Dissertation](https://dbetebenner.github.io/talks/2026-10-05-writing-an-ai-native-dissertation/) — AIME-Con 2026, Pittsburgh, Oct 2026
 - [Rhode Island 2026 SGP Analyses](https://dbetebenner.github.io/talks/2026-08-27-rhode-island-2026-sgp-analyses/) — Rhode Island Technical Advisory Committee, Aug 27, 2026
 - [Longitudinal Insight from Cross-Sectional Assessments](https://dbetebenner.github.io/talks/2026-08-18-longitudinal-insight-from-cross-sectional-assessments/) — IEA Research & Development, Aug 18, 2026
-- [What Am I Actually Doing?](https://dbetebenner.github.io/talks/2026-07-15-what-am-i-actually-doing/) — Center for Assessment staff retreat (brown-bag), Jul 15, 2026
 
 [All 411 talks →](https://dbetebenner.github.io/talks/)
 <!-- talks:end -->
